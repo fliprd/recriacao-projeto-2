@@ -1,0 +1,65 @@
+h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+    margin-bottom: 32px;
+}
+
+h1 span{
+font-weight: bold;
+
+}
+
+body{
+font-family: 'Open Sans', sans-serif;
+text-align: center;
+margin: 0;
+}
+
+span{
+color: #EE24FF;
+    
+}
+
+p, #footer {  
+  color:  #3F3D56;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#hero{
+width: 592px;
+margin: 0 auto 72px;
+
+}
+
+#hero img{
+
+    margin-bottom: 72px;
+}
+
+#footer a + a{
+margin-left: 28px;
+
+}
+
+#line{
+    width: 568px;
+    height: 0px;
+    border: 2px solid #eceff2;
+    margin: 0 auto 8px;
+}
+
+#wave{
+    position: fixed;
+    bottom: 0px;
+    width: 1024px;
+    height: 104px;
+     flex-shrink: 0;
+}
+
+#span a{
+color: #3F3D56;
+
+}
